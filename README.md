@@ -41,7 +41,7 @@ Git, HTML5, CSS3, Sass, JavaScript, Typescript, React JS, Node JS, npm, Webpack,
 ---
 -->
 
-🔥 *Stats*
+🔥 *Stats*  
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CodeSpellcaster&show_icons=true" height="140px"/> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CodeSpellcaster&layout=compact" height="140px"/>
 
 [![Codewars](https://www.codewars.com/users/CodeSpellcaster/badges/large)](https://www.codewars.com/users/CodeSpellcaster/badges/large)

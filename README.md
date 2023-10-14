@@ -16,7 +16,7 @@
 👩‍💻 **About Me**
 
 * Like to solve complex problems: develop websites and web applications with a user-friendly interface
-* Fascinated by the development process and the opportunity to create convenient and useful products. Look at my works on my (website)[https://sergey-ladorski.netlify.app] in the Projects section
+* Fascinated by the development process and the opportunity to create convenient and useful products. Look at my works on my [website](https://sergey-ladorski.netlify.app) in the Projects section
 * Every day practice in programming, write pet projects, study new tech stuff
 * Open to offers for a frontend developer position where I can contribute and grow with the company. If you have a vacancy that matches my skills and experience, do not hesitate to contact me, I will be glad to cooperate
 

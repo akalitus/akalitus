@@ -1,8 +1,8 @@
-<h2 align="center">
-  Hello! My name is Sergey, I am a Frontend Developer
-</h2>
+# Hello! My name is Sergey, I am a Frontend Developer
 
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sergeyladorski">
@@ -13,7 +13,7 @@
   </a>
 </p>
 
-👩‍💻 **About Me**
+## 👩‍💻 **About Me**
 
 * Like to solve complex problems: develop websites and web applications with a user-friendly interface
 * Fascinated by the development process and the opportunity to create convenient and useful products. Look at my works on my [website](https://sergey-ladorski.netlify.app) in the Projects section
@@ -26,7 +26,7 @@
 * Work on interesting projects
 * Contribute to the success of the company
   
-📫 **Contact Me**
+## 📫 **Contact Me**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergeyladorski),
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sergeyladorski)
@@ -41,7 +41,8 @@ Git, HTML5, CSS3, Sass, JavaScript, Typescript, React JS, Node JS, npm, Webpack,
 ---
 -->
 
-🔥 *Stats*  
+## 🔥 *Stats*  
+
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CodeSpellcaster&show_icons=true" height="140px"/> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CodeSpellcaster&layout=compact" height="140px"/>
 
 [![Codewars](https://www.codewars.com/users/CodeSpellcaster/badges/large)](https://www.codewars.com/users/CodeSpellcaster/badges/large)

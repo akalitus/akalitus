@@ -29,7 +29,7 @@
 ## 📫 **Contact Me**
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergeyladorski),
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sergeyladorski)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/akalitus)
   
 ---
 
@@ -43,10 +43,10 @@ Git, HTML5, CSS3, Sass, JavaScript, Typescript, React JS, Node JS, npm, Webpack,
 
 ## 🔥 *Stats*  
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CodeSpellcaster&show_icons=true" height="140px"/> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CodeSpellcaster&layout=compact" height="140px"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akalitus&show_icons=true" height="140px"/> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akalitus&layout=compact" height="140px"/>
 
-[![Codewars](https://www.codewars.com/users/CodeSpellcaster/badges/large)](https://www.codewars.com/users/CodeSpellcaster/badges/large)
+[![Codewars](https://www.codewars.com/users/akalitus/badges/large)](https://www.codewars.com/users/akalitus/badges/large)
 
 ---
 
-![visitors](https://komarev.com/ghpvc/?username=CodeSpellcaster&label=visitors&color=blue)
+![visitors](https://komarev.com/ghpvc/?username=akalitus&label=visitors&color=blue)

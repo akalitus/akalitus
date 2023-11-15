@@ -20,7 +20,7 @@
 * Every day practice in programming, write pet projects, study new tech stuff
 * Open to offers for a frontend developer position where I can contribute and grow with the company. If you have a vacancy that matches my skills and experience, do not hesitate to contact me, I will be glad to cooperate
 
-🎯 **My Goals**:
+## 🎯 **My Goals**:
 * Write clean code
 * Work in a friendly development team
 * Work on interesting projects
